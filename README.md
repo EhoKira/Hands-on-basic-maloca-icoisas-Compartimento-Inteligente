@@ -2,7 +2,7 @@
 Projeto Básico Hands Maloca das iCoisas  - Projeto 2
 
 ###  Organogama
-Product Owner:
+Product Owner: Marcelle Urquiza
 
 Scrum Master: Leticia Maciel
 
